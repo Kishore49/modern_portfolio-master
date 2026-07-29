@@ -388,7 +388,7 @@ export const projects = [
 // Experiences
 export const experiences = [
   {
-    title: "Delivery Data Scientist II",
+    title: "Data Scientist II",
     company_name: "Turing",
     icon: company.turing,
     iconBg: "#E6DEDD",
